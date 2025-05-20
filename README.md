@@ -32,9 +32,6 @@ Evaluation metrics used:
 
 ---
 
-### 🫁 Lung Cancer Prediction
-
-```markdown
 # 🫁 Lung Cancer Prediction using Symptoms and Patient Data
 
 This machine learning project predicts whether a patient has lung cancer based on medical attributes and symptoms.
